@@ -17,4 +17,6 @@ Users can click on the highlighted sentences to view more details, where an expl
 
 A word bank is available to provide suggestions for synonyms or antonyms. It also supports finding a matching word for a given description or providing the English equivalent of a word in foreign languages.
 
+# Important
 
+You will need to insert your own OpenAI API key into `src/GPTRequest.js` to use this program.
